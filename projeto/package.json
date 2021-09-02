@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "immer": "^4.0.1",
+    "immer": "^9.0.6",
     "install": "^0.13.0",
     "intl": "^1.2.5",
     "polished": "^3.4.1",
